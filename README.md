@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**BryanGarciaR/BryanGarciaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola soy Bryan!
 
-Here are some ideas to get you started:
+# Desarrollador de Sistemas
+Profesional en proceso de incorporación al ámbito tecnológico, con enfoque en el desarrollo de aplicaciones multiplataforma (escritorio, web y móvil). Cuento con conocimientos sólidos en gestión de bases de datos y dominio práctico de tecnologías clave para el ciclo de vida del software:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* Lenguajes de programación: Python, Java, JavaScript, C#
+* Bases de datos: SQL Server (diseño, optimización y consultas avanzadas)
+* Habilidades complementarias: Desarrollo full-stack básico, principios de arquitectura de software, control de versiones (Git)
+Comprometido con el aprendizaje continuo y la adaptación a nuevas tecnologías. Busco oportunidades para aplicar mis capacidades técnicas en proyectos desafiantes, aportando soluciones innovadoras y escalables. Mi perfil combina:
+* Capacidad analítica para resolver problemas complejos
+* Visión integral del desarrollo software (backend + frontend)
+* Enfoque metódico en la optimización de procesos con bases de datos
+Disponible para colaborar en equipos multidisciplinarios y proyectos que requieran implementación de sistemas robustos.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanGarciaR)](https://git.io/streak-stats)

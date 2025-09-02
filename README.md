@@ -1,4 +1,6 @@
 
+
+
 # Hola soy Bryan!
 
 # Desarrollador de Sistemas
@@ -14,4 +16,6 @@ Comprometido con el aprendizaje continuo y la adaptación a nuevas tecnologías.
 * Enfoque metódico en la optimización de procesos con bases de datos
 Disponible para colaborar en equipos multidisciplinarios y proyectos que requieran implementación de sistemas robustos.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanGarciaR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanGarciaR&locale=es)](https://git.io/streak-stats)
+
+https://www.facebook.com/bryancituu
